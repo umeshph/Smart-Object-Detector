@@ -17,3 +17,5 @@ Create a new branch.
 Make your changes and commit them.
 Push to your fork and submit a pull request.
 Please make sure to update tests as appropriate.
+ #### License
+ Distributed under the MIT License. See LICENSE for more information
